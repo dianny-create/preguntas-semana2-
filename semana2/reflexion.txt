@@ -1,0 +1,8 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+RESPUESTA:La función principal de la terminal es 
+proporcionar una interfaz basada en texto para 
+comunicarse directamente con el sistema operativo.
+ Permite a los usuarios y administradores ejecutar comandos,
+  automatizar tareas mediante scripts y gestionar archivos
+   o configuraciones del sistema de forma rápida y eficiente, 
+   sin necesidad de usar una interfaz gráfica.
